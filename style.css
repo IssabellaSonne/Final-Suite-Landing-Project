@@ -270,7 +270,7 @@ h4 {
 
 
 
-  .two{
+  .sub-section{
     grid-row: 2/3;
     grid-column: 1 / 2;
   }
@@ -395,7 +395,7 @@ h4 {
     grid-row: 1/ 2;
   }
 
-  .two{
+  .sub-section{
     grid-row: 2 / 4;
     grid-column: 1/2;
   }
@@ -436,7 +436,7 @@ h4 {
     margin: 5em 0 0 10em;
   }
 
-  .two .btn:hover{
+  .sub-section .btn:hover{
     background-image: linear-gradient(to bottom right, #A060FF, #CB30E3, #FFA84E);
   }
 
